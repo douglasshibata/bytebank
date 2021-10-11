@@ -14,4 +14,27 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# bytebank
+
+
+### Install flutter 
+  [Reference](https://www.alura.com.br/artigos/flutter-como-configurar-o-ambiente-de-desenvolvimento)
+  
+### Check Flutter
+```bash
+flutter doctor
+```
+
+### Check devices
+```bash
+flutter devices
+```
+
+#### Create Project
+```bash
+flutter create bytebank
+```
+
+### Run Project
+```bash
+flutter run
+```
